@@ -1,2 +1,2 @@
 ## Kraken Development
-![](https://raw.githubusercontent.com/Kraken-Development/.github/refs/heads/main/assets/Banner.png)
+![](https://raw.githubusercontent.com/Kraken-Systems/.github/refs/heads/main/assets/Banner.png)
